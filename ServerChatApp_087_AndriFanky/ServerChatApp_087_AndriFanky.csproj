@@ -42,7 +42,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="WCFService_2Way_087">
+    <Reference Include="WCFService_2Way_087, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\WCFService_2Way_087\WCFService_2Way_087\bin\Debug\WCFService_2Way_087.dll</HintPath>
     </Reference>
   </ItemGroup>
